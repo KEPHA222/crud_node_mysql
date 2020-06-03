@@ -1,8 +1,8 @@
 ##Description <br>
-Simple crud application for Node and MySql. <br>
+Sample crud application for Node and MySql. <br>
 
 ##Database <br>
-In order to use this app, create Database i.e <br>
+In order to use this app, create Database and insert data i.e <br>
 
  USE EmployeeDB;<br>
 
@@ -14,9 +14,9 @@ INSERT INTO `employee` VALUES(1, 'Gavin Cortez', 'EMP90', 265400),
 UNLOCK TABLES;<br>
 
 ##Stored Producures <br>
-You will be required to create Store Produre called "EmployeeAddOrEdit"<br>
+You will be required to create Store Produre called "EmployeeAddOrEdit".
 
-It will be used in Insertion and Updating of Employee DB.<br>
+It will be used in inserting and updating of Employee DB.<br>
 
 ##run <br>
 Run this program on localhost PORT: 3000 "http://localhost:3000/"
