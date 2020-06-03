@@ -1,6 +1,3 @@
-##Description <br>
-Sample crud application for Node and MySql. <br>
-
 ##Database <br>
 In order to use this app, create Database and insert data i.e <br>
 
